@@ -1,0 +1,122 @@
+[
+    {
+        "img": "https://i.ibb.co.com/VqZh3cd/Virat-Kohli.webp",
+        "name": "Virat Kohli",
+        "country": "India",
+        "position": "Batsman",
+        "skill": "Right-arm-offberak",
+        "profile": "https://i.ibb.co.com/VqZh3cd/Virat-Kohli.webp",
+        "battingHands": "Right-hand",
+        "price": "15000"
+    },
+    {
+        "img": "https://i.ibb.co.com/2nSHbV8/Joe-Root.jpg",
+        "name": "Joe Root",
+        "country": "England",
+        "position": "Batsman",
+        "skill": "Leg spin",
+        "profile": "https://i.ibb.co.com/2nSHbV8/Joe-Root.jpg",
+        "battingHands": "Right-hand",
+        "price": "12000"
+    },
+    {
+        "img": "https://i.ibb.co.com/j5yDMmm/Kane-Williamson.jpg",
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "position": "Wicketkeeper-Batsman",
+        "skill": "N/A",
+        "profile": "https://i.ibb.co.com/j5yDMmm/Kane-Williamson.jpg",
+        "battingHands": "Right-hand",
+        "price": "11000"
+    },
+    {
+        "img": "https://i.ibb.co.com/xMBZn31/Steve-Smith.webp",
+        "name": "Steve Smith",
+        "country": "Australia",
+        "position": "Bowler",
+        "skill": "Left-arm-fast",
+        "profile": "https://i.ibb.co.com/xMBZn31/Steve-Smith.webp",
+        "battingHands": "Right-hand",
+        "price": "13000"
+    },
+    {
+        "img": "https://i.ibb.co.com/Qpx467n/Babar-Azam.jpg",
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "position": "Batsman",
+        "skill": "Right-arm-offberak",
+        "profile": "https://i.ibb.co.com/Qpx467n/Babar-Azam.jpg",
+        "battingHands": "Right-hand",
+        "price": "14000"
+    },
+    {
+        "img": "https://i.ibb.co.com/KqF8Hrh/David-Warner.webp",
+        "name": "David Warner",
+        "country": "Australia",
+        "position": "Allrounder",
+        "skill": "Right-arm-fast-medium",
+        "profile": "https://i.ibb.co.com/KqF8Hrh/David-Warner.webp",
+        "battingHands": "Left-hand",
+        "price": "13500"
+    },
+    {
+        "img": "https://i.ibb.co.com/80DC9gF/Rohit-Sharma.webp",
+        "name": "Rohit Sharma",
+        "country": "India",
+        "position": "Batsman",
+        "skill": "Right-arm-leg berak",
+        "profile": "https://i.ibb.co.com/80DC9gF/Rohit-Sharma.webp",
+        "battingHands": "Right-hand",
+        "price": "14500"
+    },
+    {
+        "img": "https://i.ibb.co.com/QHrz92G/Quinton-de-Kock.jpg",
+        "name": "Quinton de Kock",
+        "country": "South Africa",
+        "position": "Bowler",
+        "skill": "Left-arm fast",
+        "profile": "https://i.ibb.co.com/QHrz92G/Quinton-de-Kock.jpg",
+        "battingHands": "Left-hand",
+        "price": "12500"
+    },
+    {
+        "img": "    https://i.ibb.co.com/P6pjX7N/Shai-Hope.jpg",
+        "name": "Shai Hope",
+        "country": "West Indies",
+        "position": "Bowler",
+        "skill": "Right-arm leg berak",
+        "profile": "    https://i.ibb.co.com/P6pjX7N/Shai-Hope.jpg",
+        "battingHands": "Right-hand",
+        "price": "10500"
+    },
+    {
+        "img": "https://i.ibb.co.com/BgkRvNg/Aaron-Finch.jpg",
+        "name": "Aaron Finch",
+        "country": "Australia",
+        "position": "Allrounder",
+        "skill": "Right-arm-medium",
+        "profile": "https://i.ibb.co.com/BgkRvNg/Aaron-Finch.jpg",
+        "battingHands": "Right-hand",
+        "price": "11000"
+    },
+    {
+        "img": "https://i.ibb.co.com/88Ww1Y8/fakhar1702355786-0.jpg",
+        "name": "Fakhar Zaman",
+        "country": "Pakistan",
+        "position": "Wicketkeepr-Batsman",
+        "skill": "N/A",
+        "profile": "https://i.ibb.co.com/88Ww1Y8/fakhar1702355786-0.jpg",
+        "battingHands": "Left-hand",
+        "price": "11500"
+    },
+    {
+        "img": "https://i.ibb.co.com/BwpSgHF/eqod4ll8-jos-buttler-vs-india-afp-625x300-10-November-22.webp",
+        "name": "Jos Buttler",
+        "country": "England",
+        "position": "Allrounder",
+        "skill": "Right-arm-fast-medius",
+        "profile": "https://i.ibb.co.com/BwpSgHF/eqod4ll8-jos-buttler-vs-india-afp-625x300-10-November-22.webp",
+        "battingHands": "Right-hand",
+        "price": "13000"
+    }
+]
