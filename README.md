@@ -20,8 +20,10 @@ Welcome to Cricket Team Manager, a React-based application that allows users to 
 
 - HTML
 - CSS
+- Tailwind CSS
+- Daisy UI
 - JavaScript
-- React (or your tech stack)
+- React
 
 ## How to Run
 
