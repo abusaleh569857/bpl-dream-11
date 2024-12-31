@@ -7,7 +7,6 @@ import Coin from "./assets/images/pngwing.com (4).png";
 import { RiDeleteBinLine } from "react-icons/ri";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-// import LogoFooter from './assets/images/logo-footer.png'
 
 export default function App() {
   const [players, setPlayers] = useState([]);
@@ -85,14 +84,11 @@ export default function App() {
         </div>
       </nav>
 
-      {/* banner section start here now */}
-      {/* banner section start here now */}
-
       <div className=" w-11/12 md:container mx-auto my-10">
         <div className=" bg-black rounded-xl">
           <div className="h-screen w-full rounded-xl flex flex-col justify-center items-center bg-no-repeat bg-cover bg-[url('./assets/images/bg-shadow.png')]">
             <div>
-              <img src={BannerImage} alt="" />
+              <img className="w-32 md:w-44 " src={BannerImage} alt="" />
             </div>
             <h2 className=" text-center text-4xl text-white font-semibold my-5 leading-tight">
               Assemble Your Ultimate Dream 11 Cricket Team
