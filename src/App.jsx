@@ -66,7 +66,7 @@ export default function App() {
           </div>
           <div className=" flex justify-between items-center gap-10">
             <span>
-              <ul className=" hidden md:block md:flex justify-center items-center">
+              <ul className=" hidden md:flex justify-center items-center">
                 <li className=" mr-10 font-semibold cursor-pointer">Home</li>
                 <li className=" mr-10 font-semibold cursor-pointer">Fixture</li>
                 <li className=" mr-10 font-semibold cursor-pointer">Teams</li>
@@ -253,13 +253,15 @@ export default function App() {
           <div>
             <h6 className=" text-white text-2xl font-semibold">Newsletter</h6>
             <fieldset className="form-control w-80">
-              <label className="label">
-                <span className="label-text">Enter your email address</span>
-              </label>
-              <div className="join">
+              {/* <label className="label">
+                <span className="label-text border-4">
+                  Enter your email address
+                </span>
+              </label> */}
+              <div className="join mt-6">
                 <input
                   type="text"
-                  placeholder="username@site.com"
+                  placeholder="Enter your email"
                   className="input input-bordered join-item"
                 />
                 <button className="btn bg-gradient-to-r from-fuchsia-500 to-yellow-500 join-item">
